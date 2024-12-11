@@ -1,4 +1,3 @@
-"# Python_Projekt" 
 <h1>Projekt:</h1> 
 <h2>Brevlådeövervakning med objektigenkänning</h2>
 Detta är en uppdatering av ett tidigare projekt för att uppmärksamma när jag får post i min brevlåda.
