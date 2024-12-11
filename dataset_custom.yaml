@@ -1,0 +1,5 @@
+train: E:\Code\Python\ITHS\AI_Course_2\yolov_11_custom\train
+val: E:\Code\Python\ITHS\AI_Course_2\yolov_11_custom\val
+
+nc: 2
+names: ["car", "postnord"]
