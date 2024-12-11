@@ -19,4 +19,5 @@ och förstå. Datasetet har jag skapat själv med bilder på postnordbilar samt 
 Med detta tillvägagångssätt kan jag helt utesluta arduino-delen i projektet och istället använda en kamera som är riktad mot min brevlåda
 vilket sparar in på 9v batterier vid sändaren samt skapar en mer vädertålig lösning.
 
-I videon explanation.mp4 visar och förklarar jag lite hur projektet fungerar
+I videon nedan visar och förklarar jag lite hur projektet fungerar.
+https://youtu.be/avbMZZvKO3g
